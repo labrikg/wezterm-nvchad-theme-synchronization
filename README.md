@@ -14,6 +14,8 @@ The synchronization is achieved through a straightforward process:
 
 **Important:** For this particular theme synchronization setup to function correctly, the **theme names used in NvChad must exactly match the names of available color schemes in the WezTerm installation.**
 
+** The setup works for macOS. It should also work for Linux. If not, check the temporary cache file/path and change it accordingly. **
+
 Right now not all themes are supported. See `theme_map` in `wezterm_theme_sync.lua` for the supported themes.
 
 You can link a theme in NvChad with a theme in Wezterm by adding: `["NvChadThemeName"] = "WezTermThemeName"` in `local theme_map` in `wezterm_theme_sync.lua`. I couldn't be bothered to add other themes that I don't use.
