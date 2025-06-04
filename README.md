@@ -22,7 +22,7 @@ You can link a theme in NvChad with a theme in Wezterm by adding: `["NvChadTheme
 
 Gruvbox example:
 
-![Gruvbox](./images/image.png)
+![Gruvbox](./images/gruvbox.png)
 
 # Setup Overview
 
