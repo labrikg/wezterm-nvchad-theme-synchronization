@@ -18,6 +18,10 @@ Right now not all themes are supported. See `theme_map` in `wezterm_theme_sync.l
 
 You can link a theme in NvChad with a theme in Wezterm by adding: `["NvChadThemeName"] = "WezTermThemeName"` in `local theme_map` in `wezterm_theme_sync.lua`. I couldn't be bothered to add other themes that I don't use.
 
+Gruvbox example:
+
+![Gruvbox](./images/image.png)
+
 # Setup Overview
 
 1.  **NvChad Configuration:**
