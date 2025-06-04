@@ -1,0 +1,1 @@
+# wezterm-nvchad-theme-synchronization
